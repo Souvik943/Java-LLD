@@ -1,4 +1,4 @@
-package topics.StreamsAPI.EmployeeQuesttions;
+package topics.StreamsAPI.SituationBasedQuesttions;
 
 public class Employee {
     private String eId;

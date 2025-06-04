@@ -1,4 +1,4 @@
-package topics.StreamsAPI.EmployeeQuesttions;
+package topics.StreamsAPI.SituationBasedQuesttions;
 
 import java.util.Comparator;
 import java.util.List;
