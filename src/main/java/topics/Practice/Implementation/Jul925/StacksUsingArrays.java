@@ -1,4 +1,4 @@
-package topics.Practice.Implementation;
+package topics.Practice.Implementation.Jul925;
 
 public class StacksUsingArrays {
     int capacity;
